@@ -1,0 +1,44 @@
+
+.form{border: 1px solid yellow; margin: 40px; font-family: Roboto, Helvetica, Arial, sans-serif;box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;    text-align: -webkit-center;}
+.maincontainer{ display: flex; height: 4%;}
+.headerdiv{
+    background-color: aquamarine;
+    margin-bottom: 4px;
+    height: 32px;
+    padding-top: 16px;
+    font-size: x-large;
+    font-weight: bold;}
+.mainCell{width: 25%; display: block; display: inline;padding-left: 0px;box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px; padding-top: 10px;}
+
+.mainCell input{width:80% ; margin:5px; padding-bottom: 10px;}
+.genderinput{width: 25%; display: block; display: inline;padding-left: 0px;box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px; padding-top: 10px;}
+.adressinput{width: 74%; display: block; display: inline;padding-left: 0px;box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px; padding :2px;}
+.adressinput input{width: 99%; padding-bottom: 15px;}
+
+.inputCell{width: 25%; display: block; display: inline;padding-left: 0px;box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px; padding: 0px;}
+.inputCell input{width:80% ; margin:5px; height: 22px;}
+.castCell{width:22% ; margin:9px; height: 22px; padding-left: 18px;}
+.castCell select{    
+    width: 62%;
+    height: 27px;
+    float: left;}
+
+.divcontainer{ display: flex; height: 4%;     margin-top: 28px;}
+
+.startcolor{color: red;}
+
+.smalheader{
+    text-align:left;
+    padding-left:10px;
+    margin-top: -37px;
+    background-color: whitesmoke;
+    font-size:medium ;}
+
+.adressheader{
+    text-align:left;
+    font-weight: bold;
+    padding-left:50px;
+    /* margin-top: -37px; */
+    /* background-color: whitesmoke; */
+    font-size:medium ;
+}    
